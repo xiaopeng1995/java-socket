@@ -1,0 +1,3 @@
+rootProject.name = 'java_socket'
+include 'mmls_sockteServer'
+include 'mmls_socaktClient'

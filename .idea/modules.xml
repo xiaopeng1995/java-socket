@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_socket.iml" filepath="$PROJECT_DIR$/.idea/modules/java_socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mmls_socaktClient/mmls_socaktClient.iml" filepath="$PROJECT_DIR$/.idea/modules/mmls_socaktClient/mmls_socaktClient.iml" group="mmls_socaktClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mmls_socaktClient/mmls_socaktClient_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mmls_socaktClient/mmls_socaktClient_main.iml" group="mmls_socaktClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mmls_socaktClient/mmls_socaktClient_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mmls_socaktClient/mmls_socaktClient_test.iml" group="mmls_socaktClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mmls_sockteServer/mmls_sockteServer.iml" filepath="$PROJECT_DIR$/.idea/modules/mmls_sockteServer/mmls_sockteServer.iml" group="mmls_sockteServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mmls_sockteServer/mmls_sockteServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mmls_sockteServer/mmls_sockteServer_main.iml" group="mmls_sockteServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mmls_sockteServer/mmls_sockteServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mmls_sockteServer/mmls_sockteServer_test.iml" group="mmls_sockteServer" />
+    </modules>
+  </component>
+</project>
